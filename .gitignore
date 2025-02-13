@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # files
-.mp4
-.srt
+*.mp4
+*.srt
